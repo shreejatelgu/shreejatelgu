@@ -1,6 +1,6 @@
 <div align="center">
 
-![Coding Girl with Cat](./coding-girl.mp4)
+<img src="./coding-girl.png" width="650" style="border-radius: 20px; border: 3px solid #6EE7B7; box-shadow: 0 0 20px #6EE7B7, 0 0 40px #6EE7B7, 0 0 80px #34d399;"/>
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -93,10 +93,6 @@ const me = {
 ## `github.stats`
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreejatelgu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejatelgu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=c9d1d9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shreejatelgu&theme=tokyonight&hide_border=true&background=0d1117&stroke=6EE7B7&ring=6EE7B7&fire=F59E0B&currStreakLabel=6EE7B7)
 
