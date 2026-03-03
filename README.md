@@ -1,6 +1,7 @@
 <div align="center">
 
-![Coding Girl with Cat](./coding-girl.png)
+![Coding Girl with Cat](./coding-girl.mp4
+)
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
